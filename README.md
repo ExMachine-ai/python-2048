@@ -5,7 +5,7 @@ https://blog.csdn.net/hyf64/category_11455181.html?orderBy=2
 https://docs.python.org/zh-cn/3/library/random.html
 https://docs.python.org/zh-cn/3/tutorial/datastructures.html
 https://docs.python.org/zh-cn/3/library/copy.html
-
+https://blog.csdn.net/qq_36158230/article/details/120981139
 其中https://docs.python.org/zh-cn/3/library/copy.html让我解决了一个头疼的bug ：
 此前写的while语句内的判断新旧棋盘：
         shangyici_board = []
